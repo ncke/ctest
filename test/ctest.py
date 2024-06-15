@@ -2,7 +2,7 @@
 
 compiler = "clang"
 test_products_dir = "ctest_temp"
-generated_main = "cmainc.c"
+generated_main = "ctest_main.c"
 
 from os import walk, getcwd
 import subprocess
